@@ -6,7 +6,6 @@ int main(){
 	cin>>lastname;
 	cout<<"Hello,<<name<<lastname;
 	cout<<"otladka";
-	cout<<"Hello,<<name;
 	cout<<"new data";
 	return 0;
 }
