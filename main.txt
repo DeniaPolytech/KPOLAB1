@@ -4,6 +4,7 @@ int main(){
 	string name;
 	string lastname;
 	cin>>name;
+
 	cin>>lastname;
 	cout<<"Hello,<<name<<lastname;
 	cout<<"otladka";
