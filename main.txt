@@ -2,8 +2,11 @@
 using namespace std;
 int main(){
 	string name;
+	string lastname;
 	cin>>name;
-	cout<<"Hello,<<name;
+	cin>>lastname;
+	cout<<"Hello,<<name<<lastname;
+	cout<<"otladka";
 	cout<<"new data";
 	return 0;
 }
