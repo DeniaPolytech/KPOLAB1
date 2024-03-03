@@ -3,9 +3,7 @@ using namespace std;
 int main(){
 	string name;
 	cin>>name;
-	cin>>lastname;
-	cout<<"Hello,<<name<<lastname;
-	cout<<"otladka";
+	cout<<"Hello,<<name;
 	cout<<"new data";
 	return 0;
 }
